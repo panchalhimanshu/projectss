@@ -1,0 +1,64 @@
+
+.t-shirt
+{
+  font-size: 50px;
+}
+  .icon
+  {
+    color: #a8d741;
+  }
+      .btn
+      {
+        transition: 1.3s;
+        background: #a8d741 !important;
+      }
+    
+      .btn:hover {
+        transform: scale(1.05) rotate(3deg);
+        background: white !important;
+        color: black;
+        box-shadow: 0px 0px 10px rgb(69, 61, 61);
+
+      }
+      .lo-fs
+      {
+        font-size:32px ;
+      }
+      .p-unique
+      {
+        font-size: 55px;
+      }
+
+body{
+  overflow-x: hidden;
+}
+    
+.card1
+{
+    background: #a8d741 !important;
+}
+.card-hover
+{
+    transition: 0.5s;
+}
+.card-hover:hover
+{
+    transform: scale(1.03) rotate(-2deg);
+    box-shadow: 0 5px 10px rgb(138, 136, 136,0.8);
+}
+.maincard-hover
+{
+    transition: 0.5s;
+    /* background: rgb(138, 137, 137,0.2); */
+  background: #EEEEEE;
+
+}
+.maincard-hover:hover
+{
+    transform: scale(1.02) rotate(-1deg);
+    box-shadow: 0 30px 20px rgb(138, 136, 136,0.8);
+}
+.card2
+{
+  background: #EEEEEE;
+}

@@ -1,0 +1,290 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Ubuntu', sans-serif;
+}
+.main-main
+{
+    background: url(../imgs/Rectangle\ .png);
+}
+
+.main
+{
+    height: 600px;
+    width: 100%;
+    background: url(../imgs/Shape\ \(1\).png);
+    background-size: 100% 100%;
+    text-align: center;
+    color: white;
+}
+.nav
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 60px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.logo
+{
+    width: 50%;
+}
+.homes
+{
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+.home
+{
+    width: 20%;
+    margin-left: 5px;
+}
+.main h2
+{
+    margin-top: 50px;
+    text-align: center;
+    font-size:5rem;
+}
+.main p
+{
+    font-size: 25px;
+}
+
+
+.popular
+{
+ padding: 70px 0 10px 0;
+}
+.popular h1
+{
+    padding-top: 20px;
+    text-align: center;
+    color: #7287ae;
+}
+.food-items
+{
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 50px auto auto auto;
+
+}
+.item-main
+{
+    width: 28%;
+    box-shadow: 0 0 10px black;
+    background: white;
+    
+}
+.item-main h3
+{
+    padding: 10px;
+}
+.item-main p
+{
+    padding: 10px;
+}
+
+
+.item1 img
+{
+    height: 230px;
+    width: 100%;
+}
+.btn
+{
+    height: 50px;
+    width: 200px;
+    background: #7287ae;
+    color: white;
+    margin: 30px auto 60px auto;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 30px;
+}
+
+
+.discount-offer
+{
+    display: flex;
+    background:white;
+    flex-wrap: wrap;
+}
+.discount-img
+{
+    width: 50%;
+}
+.discount-img img
+{
+    height: 500px;
+    width: 100%;
+    object-fit: cover;
+}
+.discount
+{
+    width: 50%;
+    padding: 100px 0;
+
+}
+.discount h2,.discount p
+{
+    padding: 20px ;
+}
+.btn1
+{
+    margin: 30px 20px;
+}
+
+.order-list
+{
+    width: 100%;
+    background: #7287ae;
+    color: white;
+    padding: 20px 0 60px 0;
+}
+.order-list h1
+{
+    text-align: center;
+    padding:30px 0px ;
+}
+.how-to-order
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+
+}
+.order
+{
+    width: 30%;
+    padding:10px;
+}
+.order-no
+{
+    height:80px;
+    width: 80px;
+    background: white;
+    border-radius: 50%;
+    color: #7287ae;
+    font-size: 45px;
+    text-align: center;
+    line-height: 80px;
+    margin: 10px auto;
+}
+.order-list h2
+{
+  padding: 10px 0;
+}
+.lorem
+{
+    font-size: 20px;
+}
+
+
+.free-delivery
+{
+    height: 500px;
+    width: 100%;
+    background: url(../imgs/Place\ Your\ Image\ Here\ \(Double\ Click\ to\ Edit\)\ \(4\).png);
+    background-size: 100% 100%;
+    text-align: center;
+    padding: 20px 0;
+    color: #7287ae;
+}
+.free-delivey-content
+{
+    width: 50%;
+    margin: 0 auto;
+}
+.free-delivery h1
+{
+    padding: 30px 0;
+    font-size: 55px;
+}
+.free-delivery p
+{
+    padding: 20px 10px;
+    font-size: 22px;
+}
+
+
+
+.media
+{
+    background: url(../imgs/Rectangle\ .png);
+    background-size: 100% 100%;
+    padding: 70px 0 0px 0;
+    color: white;
+}
+.media-detail
+{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    color: #7287ae;
+
+}
+.media-detail p
+{
+    padding: 20px 10px;
+    font-size: 22px;
+
+}
+.icons
+{
+    display: flex;
+    justify-content: center;
+}
+.icons .facebook
+{
+    height: 50px;
+    width: 50px;
+    background: #7287ae;
+    border-radius: 50%;
+    color: white;
+    font-size: 25px;
+   line-height: 50px;
+   margin: 20px 10px;
+
+}
+
+
+
+.about
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background: url(../imgs/Shape\ \(5\).png);
+    background-size:100% 100%;
+    padding: 20px 0;
+}
+.about-1
+{
+    width: 40%;
+    margin: 160px auto 0 auto;
+}
+.about-2
+{
+    width: 13%;
+    margin: 160px auto 0 auto;
+}
+.about h2
+{
+    padding: 10px 0px;
+}
+
+
+
+
+

@@ -1,0 +1,220 @@
+@media (max-width:1200px)
+{
+.nav-p1,.nav-p2
+{
+    width: 100%;
+    margin-top: 5px;
+    text-align: center;
+}
+.events-imgs
+{
+    width: 90%;
+}
+    .imgs
+    {
+        width: 90%;
+        grid-template-columns: 1fr 1fr;
+    }
+    .section-1
+{
+    top: 18%;
+    width: 90%;
+    left: 5%;
+
+}
+.buttons
+{
+    margin-top: 20px;
+}
+.inputs
+{
+    width: 90%;
+}
+.input1
+{
+    width: 40%;
+    margin: 10px 0;
+}
+.brands
+{
+    width: 90%;
+}
+.blog-img1
+{
+    width: 48%;
+    margin: 20px auto;
+}
+.part1
+{
+    width: 50%;
+    padding: 20px 20px;
+}
+.part2
+{
+    width: 50%;
+}
+}
+
+@media (max-width:900px)
+{
+    .imgs
+    {
+        grid-template-columns: 1fr;
+    }
+    .section-1
+    {
+        top: 20%;
+        width: 100%;
+        left: 0;
+
+    }
+}
+
+
+
+@media (max-width:700px)
+{
+.bg
+{
+    height: 930px;
+}
+.section-1
+{
+    width: 100%;
+    left: 0;
+    padding: 0 20px 30px 20px;
+    grid-template-columns: 1fr;
+    top: 12%;
+}
+.imgs
+{
+    width: 100%;
+}
+.input1
+{
+    width: 100%;
+    margin-top: 20px;
+}
+
+.events h1
+{
+    width: 100%;
+}
+.events .btn
+{
+    width: 100%;
+    margin-top: 20px;
+    justify-content: space-between;
+}
+
+.creat-event
+{
+    grid-template-columns: 1fr;
+}
+.event-img img
+{
+    margin: 0;
+}
+
+.blog-img1
+{
+    width: 90%;
+}
+.part1
+{
+    width: 100%;
+    padding: 0; 
+    margin-top: 20px;
+
+}
+.brands
+{
+    width: 100%;
+}
+.part2
+{
+    width: 100%;
+    padding: 0;
+    margin: 28px 0;
+}
+}
+
+
+@media (max-width:500px)
+{
+    .section-1
+    {
+        top: 15%;
+    }
+.nav-p2 *
+{
+    margin: 6px auto;
+}
+
+}
+
+@media (max-width:450px)
+{
+    .nav-p2 *
+    {
+        width: 25%;
+    }
+
+}
+
+@media (max-width:380px)
+{
+    .nav-p2 *
+    {
+        width: 33.33%;
+    }
+.section-1
+{
+top: 22%;
+}
+.bg
+{
+    height: 1000px;
+}
+.inputs{
+    margin-top: -40px;
+}
+.blog-img1
+{
+    width: 90%;
+}
+.content
+{
+    font-size: 18px;
+}
+.buttons button
+{
+    width: 40%;
+}
+.brands
+{
+    width: 100%;
+}
+.buttons
+{
+    margin-top: 30px;
+}
+.img1-content-part1 h1
+{
+    font-size: 40px;
+}
+.img1-content-part1
+{
+    width: 30%;
+}
+.img1-content-part2
+{
+    width: 70%;
+}
+}
+@media (max-width:300px)
+{
+    .inputs{
+        margin-top: -20px;
+    }
+}

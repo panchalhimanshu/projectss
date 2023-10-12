@@ -1,0 +1,265 @@
+@media (max-width:1200px)
+{
+  .hide-nav
+  {
+    opacity: 1;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+  }
+  .main-nav
+  {
+    display: none; 
+  }
+.questions
+{
+    width: 95%;
+}
+}
+@media (max-width:1050px)
+{
+
+    .words
+    {
+        width: 50%;
+        padding: 130px 0 0 0;
+    }
+    ul :nth-child(2)
+{
+    padding-left: 20px;
+}
+ul :nth-child(3)
+{
+    padding-left: 20px;
+}
+.service-photos
+{
+    width: 95%;
+    margin: 0 auto;
+}
+.sr-photo1
+{
+    width: 49%;
+    margin-bottom: 20px;
+}
+
+.qu-answer,.info-main
+{
+    width: 80%;
+}
+.say-qu
+{
+    width: 80%;
+
+}
+.ex-photo
+    {
+        width: 100%;
+    }
+    .experince
+    {
+        padding-left: 22px;
+    }
+    .footer{width: 90%;}
+    .shape2
+    {
+        padding-top: 50px;
+    }
+
+
+}
+
+
+
+@media (max-width:700px)
+{
+
+    .words
+    {
+        width: 80%;
+    }
+    
+    .photo,.experince
+    {
+        width: 100%;
+    }
+
+    .lorem-img
+    {
+        width: 100%;
+        margin: 10px 0 0 0;
+    }
+    
+    .lorem
+    {
+        width: 90%;
+        padding: 30px;
+        margin: 0 auto;
+    }
+    .lo-img
+    {
+        width: 90%;
+        margin: 20px auto;
+        transform: translate(0 ,0);
+    }
+    .furniture1,.furniture2,.furniture3
+    {
+        width: 47%;
+        margin: 10px auto;
+      
+    }
+    .info-main
+    {
+        width: 90%;
+    }
+    .staff
+    {
+        width: 48%;
+    }
+    .qu-answer,.say-qu
+    {
+        width: 100%;
+    }
+    .questions
+    {
+        width: 90%;
+    }
+    .footer-part1,.footer-part2
+    {
+        width: 100%;
+        padding: 0;
+    }
+    .footer-padding1,.footer-padding2
+    {
+        width: 100%;
+        padding: 20px 10px;
+        text-align: center;
+    }
+.shape2
+{
+    padding-top: 40px;
+}
+}
+
+
+
+@media (max-width:500px)
+{
+    .words
+    {
+        width: 100%;
+    }
+   
+    .ex-photo
+    {
+        width: 90%;
+        padding: 0;
+        margin-top: 20px;
+    }
+
+   
+    .photo1,.photo2
+    {
+        width: 100%;
+    }
+
+    .photo-2-1,.photo-2-2
+    {
+        margin: 10px 0 0 0;
+    }
+    .experince
+    {
+        padding: 5px;
+        margin-top: 20px;
+    }
+
+
+
+    .shape2
+    {
+        padding-top: 60px;
+    }
+
+   
+    .sr-photo1
+    {
+        width: 90%;
+        margin: 20px auto;
+    }
+
+ 
+    .furniture1,.furniture2,.furniture3
+    {
+        width: 90%;
+        margin: 10px auto;
+    }
+
+
+
+    .staff
+    {
+        width: 100%;
+    }
+    .qu-bg
+    {
+        padding: 50px 0;
+    }
+   
+    .say-qu
+    {
+        margin: 30px 0 0 0;
+    }
+
+
+    .footer{width: 90%;}
+   
+    .footer-part1 *
+    {
+        padding: 20px 0;
+    }
+    .footer-img 
+    {
+        padding: 90px 0px 90px 0px;
+    }
+    .footer-img p
+    {
+        font-size: 40px;
+    }
+   
+
+}
+
+@media (max-width:380px)
+{
+ul :nth-child(2)
+{
+    padding-left: 10px;
+}
+
+ul :nth-child(3)
+{
+    padding-left: 10px;
+}
+ul span
+{
+    font-size: 20px;
+}
+.words :nth-child(1)
+{
+    font-size: 40px;
+    margin-top: 70px;
+}
+.shape2
+{
+    padding-top: 50px;
+}
+
+}
+@media (max-width:340px)
+{
+    .words :nth-child(1)
+{
+    font-size: 30px;
+}
+}

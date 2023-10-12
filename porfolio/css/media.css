@@ -1,0 +1,122 @@
+
+@media (max-width:1350px)
+{
+    .mynames{padding:170px 20px 0px 50px; width: 65%;}
+    .mymy{width: 35%;}
+
+}
+@media (max-width:1300px)
+{
+    .mynames{width: 60%;}
+    .mymy{width: 40%;}
+    .languages{width: 60%;}
+    .input1,.info-list
+{width: 80%;}
+
+}
+@media (max-width:1100px)
+{
+    .mynames{width: 55%;}
+    .mynames h1 {font-size: 50px;}
+
+    .mymy{width: 45%;}
+    .languages{width: 70%;}
+    .border-rotate-main1{grid-template-columns: 1fr 1fr; }
+
+
+}
+@media (max-width:1000px)
+{
+    .mynames{padding:170px 20px 0px 10px;}
+   
+    .my-img
+    {
+        height: 350px;width: 350px;
+    }
+.background2
+{
+    margin-top: -70px;
+}
+    .my-img2,.about{width: 100%;padding: 10px;}
+    .background3{padding: 100px 10px 50px 10px;}
+    .languages{width: 80%;}
+
+
+
+
+}
+
+
+@media (max-width:850px)
+{
+    
+.mymy
+{
+    margin-top: 130px;
+}
+.mynames h1 {font-size: 45px;}
+.background2
+{
+    margin-top: 0px;
+}
+
+    .my-img{margin: 30px auto 90px auto;height: 300px;width: 300px;}
+    .languages{width: 90%;}
+    .my-project{grid-template-columns: 1fr 1fr;width: 90%;margin: 0 auto;}
+    .contact,.inputs{width: 100%;}
+    .inputs{margin-top: 80px;} 
+
+
+}
+@media (max-width:800px)
+{
+    .mynames h1 {font-size: 40px;}
+}
+
+@media (max-width:700px)
+{
+   
+    .mynames{padding: 100px 20px; width: 100%;}
+    .mynames h1 {font-size: 50px;}
+    .mymy{width: 100%;margin-top: -300px;}
+    .border-rotate-main1{grid-template-columns: 1fr ;}
+    .my-project{grid-template-columns: 1fr;}
+}
+
+
+
+@media (max-width:500px)
+
+{
+    /* .mynames{padding: 100px 20px; width: 100%;} */
+.mynames h1 {font-size: 50px;}
+  
+    .mymy{margin-top: -50px;}
+    .mynames .btn{margin: 10px 0px;}
+    .my-img{margin: 30px auto 90px auto;height: 220px;width: 220px;}
+
+    .about{margin-top: 50px;}
+    .contact p
+    {
+        font-size: 18px;
+    }
+
+    .background3{padding: 20px 0 70px 0;}
+
+    .info-list{width: 90%;}
+    .input1{width: 90%;}
+}
+@media (max-width:380px)
+{
+    .border-rotate-main
+{width: 90%;}
+.contact p
+{
+    font-size: 14px;
+}
+.input1 p
+{
+    font-size: 17px;
+}
+
+}

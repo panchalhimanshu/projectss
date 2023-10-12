@@ -1,0 +1,133 @@
+@media (max-width:1200px)
+{
+    .food-items
+    {
+        width: 100%;
+    }
+}
+@media (max-width:900px)
+
+{
+
+.logo
+{
+    width: 100%;
+}
+.homes
+{
+    width: 100%;
+    margin-top: 20px;
+}
+.home
+{
+    width: 25%;
+    margin: 0;
+}
+.food-items
+{
+    width: 100%;
+}
+.item-main
+{
+    width: 40%;
+    margin: 20px;
+}
+.discount-img,.discount
+{
+    width: 100%;
+}
+.order
+{
+    width: 48%;
+}
+.free-delivey-content
+{
+    width: 100%;
+}
+.media-detail
+{
+    width: 90%;
+}
+}
+@media (max-width:500px)
+{
+
+.main h2
+{
+    padding: 40px 0 30px 0;
+    font-size: 65px;
+    margin-top: 0px;
+}
+.item-main
+{
+    width: 80%;
+    margin-top: 20px;
+}
+.order
+{
+    width: 100%;
+}
+
+.about-1
+{
+    width: 40%;
+    margin-top: 120PX;
+}
+.about-2
+{
+    width: 16.66%;
+    margin-top: 120px;
+}
+
+}
+@media (max-width:450px)
+{
+
+.home
+{
+    width: 25%;
+}
+.about
+{
+    padding:10px 0 10px 10px;
+}
+.about-1
+{
+    width: 100%;
+    margin-top: 95px;
+}
+.about-2
+{
+    width: 33.33%;
+    margin: 30px 0 0 0;
+}
+}
+
+
+@media (max-width:380px)
+{
+.main h2
+{
+    font-size: 50px;
+}
+.home
+{
+    width: 50%;
+    margin:10px 0;
+}
+
+}
+
+@media (max-width:350px)
+{
+.free-delivery h1
+{
+    font-size: 40px;
+}
+.free-delivery p
+{
+    font-size: 18px;
+
+}
+}
+
